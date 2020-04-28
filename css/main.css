@@ -1,0 +1,51 @@
+.logo {
+    float: left;
+    border-bottom: 0;
+    color: inherit;
+    font-weight: 900;
+    letter-spacing: 0.35em;
+    margin-top: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ .logo > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ .logo .symbol {
+    margin-right: 0.65em;
+}
+
+ .logo .symbol img {
+        display: block;
+        width: 2em;
+        height: 2em;
+    }
+    .container-fluid {
+    padding: 0 4.5em;
+    width: 100%;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.log {
+    float: left;
+    border-bottom: 0;
+    color: inherit;
+    font-weight: 900;
+    margin-top: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tiles article.upload {
+    background-color: #f2849e;
+    width: 300px;
+    height: 200px;
+
+}
+.upload button {
+    margin-top: 20px;
+}
+/* responsive */
